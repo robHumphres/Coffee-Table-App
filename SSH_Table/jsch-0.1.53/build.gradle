@@ -1,0 +1,4 @@
+configurations.create("default")
+artifacts.add("default", file('jsch-0.1.53.jar'))
+dependencies {
+}
